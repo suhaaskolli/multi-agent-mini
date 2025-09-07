@@ -1,0 +1,8 @@
+CLIENT STATEMENT
+Client: Sunrise Advisors
+Period: Q2 2025
+Holdings:
+- US Equities: $3,200,000
+- International Equities: $1,100,000
+- Fixed Income: $2,000,000
+Notes: Suitable for moderate risk tolerance. Contact pm@sunrise.example for details.

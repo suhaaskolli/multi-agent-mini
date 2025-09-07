@@ -1,0 +1,9 @@
+COMMERCIAL GENERAL LIABILITY POLICY
+Named Insured: Harbor Tools Co.
+Policy Number: GL-99821-IL
+Effective: 2025-01-01
+Expiration: 2026-01-01
+Coverage Limits: Each Occurrence $1,000,000; Aggregate $2,000,000
+Exclusions: Professional Liability; Asbestos
+Broker Email: broker@riskhouse.example
+Insured Phone: 773-123-4567

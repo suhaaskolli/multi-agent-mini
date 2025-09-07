@@ -1,0 +1,11 @@
+LEASE AGREEMENT
+Property: 123 Market St, Unit 5B
+Tenant: Blue Sky LLC
+Landlord: Acme Properties Inc.
+Base Rent: $4,500 per month
+Term: 24 months
+Start Date: 2025-10-01
+End Date: 2027-09-30
+Escalation: 3% annually
+Operating Expenses (CAM): $600 monthly
+Contact: leasing@acme.example, (312) 555-0199
